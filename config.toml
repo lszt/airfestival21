@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "de-ch"
-title = "Motorfluggruppe Thurgau MFGT"
+title = "Air Festival 21"
 assetDir = "assets"
 relativeURLs = true
 googleAnalytics = "UA-25486694-1"
@@ -16,30 +16,6 @@ googleAnalytics = "UA-25486694-1"
     name       = "Flugplatz"
     url        = "/flugplatz/"
     weight     = 1
-
-    [[menu.main]]
-    identifier = "flugschule"
-    name       = "Flugschule"
-    url        = "/flugschule/"
-    weight     = 2
-
-    [[menu.main]]
-    identifier = "club"
-    name       = "Club"
-    url        = "/club/"
-    weight     = 3
-
-    [[menu.main]]
-    identifier = "rundflug"
-    name       = "Rundflüge"
-    url        = "/rundflug/"
-    weight     = 4
-
-    [[menu.main]]
-    identifier = "maintenance"
-    name       = "Maintenance"
-    url        = "/maintenance/"
-    weight     = 5
 
     [[menu.main]]
     identifier = "kontakt"
