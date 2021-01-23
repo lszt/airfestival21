@@ -1,5 +1,5 @@
 ---
-title: Willkommen in Lommis
+title: Air Festival 21
 coverImages:
   - image: /img/uploads/slider_kla_lommis.jpg
     positionx: 70
