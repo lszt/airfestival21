@@ -1,5 +1,5 @@
 ---
-title: Air Festival 21
+title: Media
 coverImages:
   - image: /img/uploads/slider_kla_lommis.jpg
     positionx: 70
