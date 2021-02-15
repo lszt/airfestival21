@@ -42,9 +42,9 @@ googleAnalytics = "UA-25486694-1"
     weight     = 5
 
     [[menu.main]]
-    identifier = "media"
-    name       = "Medien"
-    url        = "/media/"
+    identifier = "mfgt"
+    name       = "MFGT"
+    url        = "/mfgt/"
     weight     = 6
 
     [[menu.main]]
