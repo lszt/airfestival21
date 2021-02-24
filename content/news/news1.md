@@ -1,5 +1,5 @@
 ---
-title: patrouille suisse am air festival
+title: patrouille suisse am air festival!
 date: '2021-02-22T16:46:38+01:00'
 image: /img/uploads/news_patrouille-suisse.jpg
 positionx: 50
