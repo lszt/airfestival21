@@ -8,13 +8,13 @@ coverImages:
     positionx: 50
     positiony: 50
 ---
-## **Freitag – Samstag, 13. – 15. August 2021**\
-**Flugplatz Lommis LSZT, Thurgau**
+## **Freitag – Samstag, 13. – 15. August 2021**
 
-\
-**Herzlich Willkommen in Lommis!**
+## **Flugplatz Lommis LSZT, Thurgau**
 
-\
+
+
+**Herzlich Willkommen in Lommis**\
 \
 Los geht's am 13. August abends mit dem Fly-in für Privatpilotinnen und -piloten aus der Schweiz und dem Ausland. Am Samstag und Sonntag finden dann diverse Flugvorführungen und Airshow-Acts statt. \
 Für das leibliche Wohl wird ein umfangreiches Gastronomie-Angebot mit Festzelt und diversen Foodständen bereitgestellt.
