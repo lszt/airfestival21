@@ -8,7 +8,7 @@ coverImages:
     positionx: 50
     positiony: 50
 ---
-### Freitag – Samstag, 13. – 15. August 2021, Flugplatz Lommis LSZT
+### Freitag – Samstag, 13. – 15. August 2021  |  Flugplatz Lommis LSZT
 
  
 **Herzlich Willkommen in Lommis**
