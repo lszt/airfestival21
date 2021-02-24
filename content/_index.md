@@ -1,5 +1,5 @@
 ---
-title: Air Festival 21
+title: air festival – 75 Jahre motorfluggruppe Thurgau
 coverImages:
   - image: /img/uploads/slider_home_1.jpg
     positionx: 50
