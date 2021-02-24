@@ -10,7 +10,6 @@ coverImages:
 ---
 ### Freitag – Samstag, 13. – 15. August 2021  |  Flugplatz Lommis LSZT
 
- 
 **Herzlich Willkommen in Lommis**
 
 Die Motorfluggruppe Thurgau MFGT feiert 2021 ihr 75-jähriges Bestehen und zelebriert dies mit einem fulminanten AIR FESTIVAL am Himmel und am Boden von Lommis TG.
