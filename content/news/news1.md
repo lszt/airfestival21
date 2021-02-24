@@ -5,11 +5,12 @@ image: /img/uploads/news_patrouille-suisse.jpg
 positionx: 50
 positiony: 50
 description: >-
-  **Präzision – Sicherheit – Perfektion**
+  **Definitive Zusage!**
 
 
-  Die Patrouille Suisse zeigt die Leistungsfähigkeit, die Präzision und die
-  Einsatzbereitschaft der Schweizer Luftwaffe am AIR FESTIVAL in Lommis!
+  Präzision – Sicherheit – Perfektion. Die Patrouille Suisse zeigt die
+  Leistungsfähigkeit, die Präzision und die Einsatzbereitschaft der Schweizer
+  Luftwaffe am AIR FESTIVAL in Lommis!
 buttons: []
 ---
 
