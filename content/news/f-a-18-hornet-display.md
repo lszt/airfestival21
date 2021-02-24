@@ -6,7 +6,10 @@ image: /img/uploads/news_hornet.jpg
 positionx: 50
 positiony: 50
 description: >-
+  **Atemberaubend!**
+
+
   Der Vorführpilot verwendet den Abfangjäger Boeing F/A-18C Hornet für eine
-  attraktiven Einzelvorführung am AIR FESTIVAL in Lommis.
+  einziartige Show am AIR FESTIVAL in Lommis.
 ---
 
