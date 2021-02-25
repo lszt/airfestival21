@@ -13,8 +13,7 @@ MFGT Motorfluggruppe Thurgau\
 Sekretariat\
 Flugplatz\
 9506 Lommis \
-T +41 52 366 33 33\
-<mailto:info@mfgt.ch>
+<mailto:info@airfestival21.ch>
 
 **Medien**
 

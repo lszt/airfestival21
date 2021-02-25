@@ -11,35 +11,35 @@ googleAnalytics = "UA-25486694-1"
     coverImage = "/img/cover/flugschule.jpg"
 
 [menu]
-    [[menu.main]]
-    identifier = "program"
-    name       = "Programm"
-    url        = "/program/"
-    weight     = 1
-
-    [[menu.main]]
-    identifier = "gastronomie"
-    name       = "Gastronomie"
-    url        = "/gastronomie/"
-    weight     = 2
-
-    [[menu.main]]
-    identifier = "sponsors"
-    name       = "Sponsoren"
-    url        = "/sponsors/"
-    weight     = 3
-
-    [[menu.main]]
-    identifier = "pilot-info"
-    name       = "Piloten-Info"
-    url        = "/pilot-info/"
-    weight     = 4
-
-    [[menu.main]]
-    identifier = "anfahrt"
-    name       = "Anfahrt"
-    url        = "/anfahrt/"
-    weight     = 5
+#    [[menu.main]]
+#    identifier = "program"
+#    name       = "Programm"
+#    url        = "/program/"
+#    weight     = 1
+#
+#    [[menu.main]]
+#    identifier = "gastronomie"
+#    name       = "Gastronomie"
+#    url        = "/gastronomie/"
+#    weight     = 2
+#
+#    [[menu.main]]
+#    identifier = "sponsors"
+#    name       = "Sponsoren"
+#    url        = "/sponsors/"
+#    weight     = 3
+#
+#    [[menu.main]]
+#    identifier = "pilot-info"
+#    name       = "Piloten-Info"
+#    url        = "/pilot-info/"
+#    weight     = 4
+#
+#    [[menu.main]]
+#    identifier = "anfahrt"
+#    name       = "Anfahrt"
+#    url        = "/anfahrt/"
+#    weight     = 5
 
     [[menu.main]]
     identifier = "mfgt"
