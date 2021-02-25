@@ -11,6 +11,12 @@ googleAnalytics = "UA-25486694-1"
     coverImage = "/img/cover/flugschule.jpg"
 
 [menu]
+    [[menu.main]]
+    identifier = "home"
+    name       = "Home"
+    url        = "/"
+    weight     = 1
+
 #    [[menu.main]]
 #    identifier = "program"
 #    name       = "Programm"
