@@ -1,14 +1,14 @@
 ---
-title: OK-Präsident
+title: Finanzen
 date: '2019-05-10T15:46:55+02:00'
 draft: false
-weight: '1'
+weight: '2'
 image: /img/uploads/fluglehrer_blanco.jpg
 positionx: 50
 positiony: 50
 description: |-
-  **Andreas Wieland**
+  **Philipp Hug**
 
-  <mailto:andreas.wieland@mfgt.ch>
+  <mailto:philipp.hug@mfgt.ch>
 ---
 
