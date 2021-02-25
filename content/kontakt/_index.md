@@ -7,7 +7,7 @@ coverImages:
     positionx: 50
     positiony: 50
 ---
-**OK Air Festival 21**
+**Air Festival 21**
 
 MFGT Motorfluggruppe Thurgau\
 Andreas Wieland (OK-Präsident)\
