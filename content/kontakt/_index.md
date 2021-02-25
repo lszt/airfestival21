@@ -7,10 +7,10 @@ coverImages:
     positionx: 50
     positiony: 50
 ---
-**Motorfluggruppe Thurgau**
+**OK Airfestival 21**
 
 MFGT Motorfluggruppe Thurgau\
-Sekretariat\
+Andreas Wieland (OK-Praesident)\
 Flugplatz\
 9506 Lommis \
 <mailto:info@airfestival21.ch>
