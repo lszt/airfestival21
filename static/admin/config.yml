@@ -52,9 +52,104 @@ collections:
           - {label: "Bild", name: "image", widget: "image", required: true}
           - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
           - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
-  - name: "flugplatz"
-    label: "Flugplatz"
-    folder: "content/flugplatz/"
+  - name: "program"
+    label: "Programm"
+    folder: "content/program/"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Headerbild/Headerbilder"
+        name: "coverImages"
+        widget: "list"
+        required: true
+        fields:
+          - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+  - name: "gastronomie"
+    label: "Gastronomie"
+    folder: "content/gastronomie/"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Headerbild/Headerbilder"
+        name: "coverImages"
+        widget: "list"
+        required: true
+        fields:
+          - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+  - name: "sponsors"
+    label: "Sponsoren"
+    folder: "content/sponsors/"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Headerbild/Headerbilder"
+        name: "coverImages"
+        widget: "list"
+        required: true
+        fields:
+          - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+  - name: "pilot-info"
+    label: "Piloten-Info"
+    folder: "content/pilot-info/"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Headerbild/Headerbilder"
+        name: "coverImages"
+        widget: "list"
+        required: true
+        fields:
+          - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+  - name: "anfahrt"
+    label: "Anfahrt"
+    folder: "content/anfahrt/"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Headerbild/Headerbilder"
+        name: "coverImages"
+        widget: "list"
+        required: true
+        fields:
+          - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+  - name: "mfgt"
+    label: "MFGT"
+    folder: "content/mfgt/"
     create: false
     slug: "{{slug}}"
     fields:
