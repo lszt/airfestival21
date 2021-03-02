@@ -12,6 +12,3 @@ Andreas Wieland (OK-Präsident)\
 Flugplatz\
 9506 Lommis \
 <mailto:info@airfestival21.ch>
-
-test
-blabla
