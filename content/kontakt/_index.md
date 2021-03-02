@@ -7,9 +7,3 @@ coverImages:
     positionx: 50
     positiony: 50
 ---
-
-MFGT Motorfluggruppe Thurgau\
-Andreas Wieland (OK-Präsident)\
-Flugplatz\
-9506 Lommis \
-<mailto:info@airfestival21.ch>

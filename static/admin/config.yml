@@ -166,9 +166,180 @@ collections:
           - {label: "Bild", name: "image", widget: "image", required: true}
           - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
           - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+  - name: "mfgt-flugschule"
+    label: "MFGT - Flugschule"
+    folder: "content/mfgt/flugschule/"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Headerbild/Headerbilder"
+        name: "coverImages"
+        widget: "list"
+        required: true
+        fields:
+          - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+  - name: "mfgt-mfgt"
+    label: "MFGT - MFGT"
+    folder: "content/mfgt/mfgt/"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Headerbild/Headerbilder"
+        name: "coverImages"
+        widget: "list"
+        required: true
+        fields:
+          - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+  - name: "mfgt-flugplatz"
+    label: "MFGT - Flugplatz"
+    folder: "content/mfgt/flugplatz/"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Headerbild/Headerbilder"
+        name: "coverImages"
+        widget: "list"
+        required: true
+        fields:
+          - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+  - name: "mfgt-club"
+    label: "MFGT - Club"
+    folder: "content/mfgt/club/"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Headerbild/Headerbilder"
+        name: "coverImages"
+        widget: "list"
+        required: true
+        fields:
+          - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+  - name: "mfgt-maintenance"
+    label: "MFGT - Maintenance"
+    folder: "content/mfgt/maintenance/"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Headerbild/Headerbilder"
+        name: "coverImages"
+        widget: "list"
+        required: true
+        fields:
+          - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+  - name: "mfgt-rundfluege"
+    label: "MFGT - Rundfluege"
+    folder: "content/mfgt/rundfluege/"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Headerbild/Headerbilder"
+        name: "coverImages"
+        widget: "list"
+        required: true
+        fields:
+          - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+  - name: "mfgt-history"
+    label: "MFGT - Geschichte"
+    folder: "content/mfgt/history/"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Headerbild/Headerbilder"
+        name: "coverImages"
+        widget: "list"
+        required: true
+        fields:
+          - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "kontakt"
     label: "Kontakt"
     folder: "content/kontakt/"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Headerbild/Headerbilder"
+        name: "coverImages"
+        widget: "list"
+        required: true
+        fields:
+          - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+  - name: "kontakt-ok"
+    label: "Kontakt - OK"
+    folder: "content/kontakt/ok/"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Headerbild/Headerbilder"
+        name: "coverImages"
+        widget: "list"
+        required: true
+        fields:
+          - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+  - name: "kontakt-top"
+    label: "Kontakt - Top"
+    folder: "content/kontakt/top/"
     create: false
     slug: "{{slug}}"
     fields:
