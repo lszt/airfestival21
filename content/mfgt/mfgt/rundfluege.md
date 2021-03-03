@@ -2,7 +2,7 @@
 title: Rundfluege
 date: '2021-02-23T13:33:19+01:00'
 draft: false
-weight: '2'
+weight: '4'
 image: /img/uploads/rundflug.jpg
 positionx: 50
 positiony: 50

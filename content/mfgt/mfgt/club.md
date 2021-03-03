@@ -2,7 +2,7 @@
 title: Club
 date: '2021-02-23T13:33:19+01:00'
 draft: false
-weight: '1'
+weight: '3'
 image: /img/uploads/bild_schnupperflug.jpg
 positionx: 50
 positiony: 50

@@ -2,7 +2,7 @@
 title: Flugschule
 date: '2021-02-23T13:33:19+01:00'
 draft: false
-weight: '1'
+weight: '2'
 image: /img/uploads/ausbildung_aquila_neu.jpg
 positionx: 50
 positiony: 50
