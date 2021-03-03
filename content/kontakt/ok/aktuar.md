@@ -1,14 +1,14 @@
 ---
-title: Marketing
+title: Aktuar
 date: '2019-05-10T15:46:55+02:00'
 draft: false
-weight: '8'
+weight: '2'
 image: /img/uploads/fluglehrer_blanco.jpg
 positionx: 50
 positiony: 50
 description: |-
-  **André Heinzelmann**
+  **Jürg Erdmann**
 
-  <mailto:andre.heinzelmann@mfgt.ch>
+  <mailto:juerg.erdmann@mfgt.ch>
 ---
 

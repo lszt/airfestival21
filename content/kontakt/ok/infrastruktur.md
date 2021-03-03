@@ -1,14 +1,14 @@
 ---
-title: Marketing
+title: Infrastruktur
 date: '2019-05-10T15:46:55+02:00'
 draft: false
-weight: '8'
+weight: '4'
 image: /img/uploads/fluglehrer_blanco.jpg
 positionx: 50
 positiony: 50
 description: |-
-  **André Heinzelmann**
+  **Tobias Kappeler**
 
-  <mailto:andre.heinzelmann@mfgt.ch>
+  <mailto:tobias.kappeler@mfgt.ch>
 ---
 
