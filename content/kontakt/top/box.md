@@ -15,11 +15,11 @@ Bitte nehmen Sie vorgängig mit uns Kontakt auf, bevor Sie das Bildmaterial verw
 
 ![](/img/uploads/medien_logo.jpg)
 
-[Download Logo](https://www.heinzelmann.com/daten/air-festival_logo.zip)
+[Download Logo](https://www.heinzelmann.com/daten/airfestival/air-festival_logo.zip)
 
 \
 **Visual**
 
 ![](/img/uploads/medien_plakat.jpg)
 
-[Download Visual](https://www.heinzelmann.com/daten/air-festival_plakat.pdf)
+[Download Visual](https://www.heinzelmann.com/daten/airfestival/air-festival_plakat.pdf)
