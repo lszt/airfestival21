@@ -2,6 +2,7 @@
 title: Geschichte
 date: '2021-02-23T13:33:19+01:00'
 draft: false
+weight: '9'
 image: /img/uploads/bild_history.jpg
 positionx: 50
 positiony: 50
