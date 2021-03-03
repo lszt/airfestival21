@@ -18,7 +18,7 @@ Für das leibliche Wohl wird ein umfangreiches Gastronomie-Angebot mit einem Fes
 
 **Für jeden ist etwas dabei!**
 
-Flugbegeisterte, Familien und Kinder –  Rundflüge in die nahe Umgebung oder zu den Voralpen? Schnupperflug mit Fluglehrer? Kinderprogramm mit Spiel- und Bastelecke? Oder einfach nur Austausch und Fachsimpeln unter Gleichgesinnten? Für jeden ist etwas dabei!
+Für** **Flugbegeisterte, Familien und Kinder! Rundflüge in die nahe Umgebung oder zu den Voralpen? Schnupperflug mit Fluglehrer? Kinderprogramm mit Spiel- und Bastelecke? Oder einfach nur Austausch und Fachsimpeln unter Gleichgesinnten? Für jeden ist etwas dabei!
 
 Feiern Sie mit uns unser Jubiläum und geniessen Sie die ausgelassene Atmosphäre auf unserem familiären und gemütlichen Flugplatz. 
 
