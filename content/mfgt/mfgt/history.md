@@ -9,7 +9,6 @@ description: >-
   Der Flugplatz Lommis (ICAO-Code LSZT) wurde 1962 eröffnet und als Ersatz für
   den Flugplatz Frauenfeld – der damals dem Waffenplatz Frauenfeld weichen
   musste – geschaffen.
-buttons:
-  - title: mehr
+buttons: []
 ---
 
