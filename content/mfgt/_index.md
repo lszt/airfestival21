@@ -1,5 +1,5 @@
 ---
-title: motorfluggruppe thurgau mfgt
+title: willkommen bei der mfgt
 coverImages:
   - image: /img/uploads/slider_kla_lommis.jpg
     positionx: 70
@@ -11,16 +11,10 @@ coverImages:
     positionx: 90
     positiony: 50
 ---
-Der Flugplatz Lommis (ICAO-Code LSZT) wurde 1962 eröffnet und als Ersatz für den Flugplatz Frauenfeld – der damals dem Waffenplatz Frauenfeld weichen musste – geschaffen. Die heute 615 Meter lange und 25 Meter breite Graspiste erlaubt den Betrieb von kleineren, meist ein­motorigen Flugzeugen.
-
-
+Der Flugplatz Lommis (LSZT) ist die Heimat der Motorfluggruppe Thurgau MFGT. 
 
 **Fliegen und fliegen lernen**
 
-
-
 Verwirkliche Dir Deinen Traum vom Fliegen auf unserem Flugplatz – am Steuerknüppel bei einem Schnupperflug oder als Passagier auf einem Rundflug. Und falls es Dir so geht wie schon vielen vor Dir: Werde Pilotin oder Pilot – unsere Flugschule macht’s möglich!
-
-
 
 Bis demnächst in Lommis – wir freuen uns!
