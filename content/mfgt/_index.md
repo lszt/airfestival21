@@ -23,12 +23,4 @@ Verwirkliche Dir Deinen Traum vom Fliegen auf unserem Flugplatz – am Steuerkn�
 
 
 
-**Für jeden etwas dabei**
-
-
-
-Auch für Nichtflieger und Ausflügler ist unser Flugplatz immer einen Besuch wert. Unsere gemütliche Flugplatzbeiz direkt neben der Start- und Landepiste bietet während der Sommermonate eine breite Auswahl an – Grillspezialitäten inklusive. Und die Kleinsten dürfen sich derweil auf dem grossen Spielplatz nebenan austoben.
-
-
-
 Bis demnächst in Lommis – wir freuen uns!
