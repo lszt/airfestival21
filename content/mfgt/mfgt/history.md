@@ -27,3 +27,30 @@ Die florierende Flugschule stärkt das Rückgrat der Motorfluggruppe Thurgau. Da
 
 **1971**\
 Schwerpunkte im Jubiläumsjahr «25 Jahre MFGT» bilden ein grandioser Flugtag in Lommis und eine glanzvolle Abend-Gala im Casino Frauenfeld.
+
+**1975**\
+Nach guten Erfahrungen mit der 4-plätzigen «Piper Cherokee» beschafft die MFGT das Nachfolgemodell: eine brandneue «Piper Archer II» (HB-OQW). Die Opposition im Lauchetal gegen den Flugplatz Lommis verstärkt sich. Um den Anwohnern entgegenzukommen, werden Flug- und Schulbetriebszeiten stark eingeschränkt.
+
+**1977**\
+Kurz vor Pfingsten errichtet die «Lauchetal AG» auf dem von ihr erworbenen, westlich an den Flugplatz angrenzenden Grundstück einen Kran, was den Flugbetrieb praktisch zum Erliegen bringt. Innert kurzer Zeit werden über 15 000 Unterschriften zur Erhaltung des Flugplatzes gesammelt. Die MFGT muss ernsthaft um die Existenz des Flugplatzes Lommis bangen.
+
+**1981**\
+Nach dem Verkauf der beiden Piper-Viersitzer beschafft die Gruppe eine weitere neue «Piper Archer II» (HB-PGM). Zwischen der MFGT und der «Lauchetal AG» wird eine Basisvereinbarung ausgehandelt.
+
+**1983**\
+Der Ostteil der Piste wird durch Einlage einer neuen Drainageleitung saniert. Ein unter den Mitgliedern gegründeter «Fairchild-Club» setzt aus eingelagerten Bestandteilen fachmännisch wieder eine «neue» Fairchild-Ranger (HB-ERO) zusammen.
+
+**1984**\
+Die MFGT erhält vom Bundesamt für Zivilluftfahrt die definitive Bewilligung zur Führung eines eigenen Unterhaltsbetriebes. 
+
+**1986**\
+Ein grosses Organisationskomitee trifft umgangreiche Vorbereitungen zum Jubiläumsflugtag «40 Jahre MFGT». Der Anlass mit vorgesehener internationaler Beteiligung aviatischer Leckerbissen musste wegen Sintflutartiger Regenfälle in letzter Minute abgesagt werden.
+
+**1990**\
+Die GV wählt Jürg Diggelmann zu ihrem neuen Präsidenten. Mit dem Ziel, die Zahl von Schulbewegungen in Lommis weiter zu reduzieren, wird ein Teil der Grundschulung erstmals nach Ptui (Slowenien) verlegt.
+
+**1992**\
+Die Gruppe kauft drei neue vierplätzige «Robin DR400» (HB-KDG, HB-KDH, HB-KDI).
+
+**1995**\
+Die bisher von Privat zugemietete Piper L-4 (HB-OXI) wird käuflich erworben. Als Ersatz für die im Vorjahr verlorene KDI wird eine weitere DR400 (HB-KEB) beschafft. Die Gruppe erhält die Baubewilligung zur Errichtung eines neuen Clubgebäudes mit integriertem Betriebsleiterbüro, C-Büro, Aufenthaltsraum und Kiosk.
