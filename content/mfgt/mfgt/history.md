@@ -54,3 +54,30 @@ Die Gruppe kauft drei neue vierplätzige «Robin DR400» (HB-KDG, HB-KDH, HB-KDI
 
 **1995**\
 Die bisher von Privat zugemietete Piper L-4 (HB-OXI) wird käuflich erworben. Als Ersatz für die im Vorjahr verlorene KDI wird eine weitere DR400 (HB-KEB) beschafft. Die Gruppe erhält die Baubewilligung zur Errichtung eines neuen Clubgebäudes mit integriertem Betriebsleiterbüro, C-Büro, Aufenthaltsraum und Kiosk.
+
+**1996**\
+Mitte April kann das neue Clubgebäude in Betrieb genommen und die alte «C-Baracke» abgebrochen werden. Der Kinderspielplatz wird neugestaltet und die Flugplatz-Zufahrt saniert. Ein kleines Organisationskomitee befasst sich mit Vorbereitungen zu den bescheidenen, aber würdigen Jubiläumsaktivitäten «50 Jahre Motorfluggruppe Thurgau».
+
+**2003**\
+HB-KDG und KDH werden verkauft und stattdessen neue Robin DR400 (HB-KFV und HB-KFW) beschafft.
+
+**2005**\
+Neue Robin HB-KOF wird beschafft, dafür die HB-KEB verkauft
+
+**2006**\
+Jubiläum «60 Jahre MFGT» mit grossem AIR FESTIVAL.
+
+**2010**\
+Neues Flugzeug «Sport Cruiser» HB-WYC wird beschafft.
+
+**2015**\
+Robin HB-KFV verunglückt in Dänemark, zum Glück ohne Verletzte. Der «Sport Cruiser» wird verkauft. Stattdessen werden 2 Aquillas 211 (HB-SGU und HB-SGT) beschafft. Die verunglückte Robin wird durch eine Diesel-Robin DR401 (HB-KLA) ersetzt.
+
+**2018**\
+Die Flugschule der MFGT wird Mitglied der SwissPSA.
+
+**2019**\
+Der Piper Archer HB-PGM wird verkauft und stattdessen eine weitere Diesel-Robin bestellt.
+
+**2021**\
+Die neue Diesel-Robin HB-KLD wird eingeführt.
