@@ -81,3 +81,22 @@ Der Piper Archer HB-PGM wird verkauft und stattdessen eine weitere Diesel-Robin 
 
 **2021**\
 Die neue Diesel-Robin HB-KLD wird eingeführt.
+
+
+
+**MFGT Präsidenten seit der Gründung 1946**\
+1946 – 1947	Hans Muhl\
+1947 – 1950	Jürg Scherrer\
+1950 – 1953	Dr. Hans Kappeler\
+1953 – 1956	Paul Lüscher\
+1956 – 1957	Ferdy Labhart\
+1957 – 1964	Hansruedi Erz\
+1964 – 1967	Walter Bollag\
+1967 – 1972	Fritz Hagmann\
+1972 – 1974	Peter Model\
+1974 – 1982	Ueli Häusermann\
+1982 – 1990	Peter Anderegg\
+1990 – 1994	Jürg Diggelmann\
+1994 – 2000	Hans-Peter Schwarzer\
+2000 – 2012	Mani Holstein\
+2012 - 2021	Peter Schafferer
