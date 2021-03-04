@@ -99,4 +99,4 @@ Die neue Diesel-Robin HB-KLD wird eingeführt.
 1990 – 1994	Jürg Diggelmann\
 1994 – 2000	Hans-Peter Schwarzer\
 2000 – 2012	Mani Holstein\
-2012 - 2021	Peter Schafferer
+2012 – 2021	Peter Schafferer
