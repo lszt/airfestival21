@@ -1,6 +1,6 @@
 ---
 title: Sponsoring
-date: '2021-06-01T17:20:25+02:00'
+date: '2021-01-30T17:20:25+01:00'
 draft: false
 image: /img/uploads/medien_plakat.jpg
 positionx: 50
