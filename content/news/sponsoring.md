@@ -12,7 +12,7 @@ description: |-
 buttons:
   - blank: true
     cta: true
-    title: Doenload Broschüre
+    title: Download Broschüre
     url: 'https://www.heinzelmann.com/daten/airfestival/air-festival_sponsoring.pdf'
 ---
 
