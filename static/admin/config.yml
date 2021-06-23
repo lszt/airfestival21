@@ -177,15 +177,79 @@ collections:
           - {label: "Bild", name: "image", widget: "image", required: true}
           - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
           - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
-  - name: "pilot-info"
-    label: "Piloten-Info"
-    folder: "content/pilot-info/"
+  - name: "sponsors-sponsors"
+    label: "Sponsoren - Sponsoren"
+    folder: "content/sponsors/sponsors"
     create: false
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
       - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
       - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
+      - {label: "Bild", name: "image", widget: "image", required: true}
+      - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+      - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+      - {label: "Teaser", name: "description", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Buttons"
+        name: "buttons"
+        widget: "list"
+        required: false
+        fields:
+          - {label: "Titel", name: "title", widget: "string", required: false}
+          - {label: "URL", name: "url", widget: "string"}
+          - {label: "CTA", name: "cta", widget: "boolean", required: false}
+          - {label: "In neuem Tab öffnen", name: "blank", widget: "boolean", default: true, required: false}
+      - label: "Headerbild/Headerbilder"
+        name: "coverImages"
+        widget: "list"
+        required: false
+        fields:
+          - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+  - name: "pilotinfo"
+    label: "Piloten-Info"
+    folder: "content/pilotinfo/"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Bild", name: "image", widget: "image", required: true}
+      - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+      - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+      - {label: "Teaser", name: "description", widget: "markdown"}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
+      - label: "Buttons"
+        name: "buttons"
+        widget: "list"
+        required: false
+        fields:
+          - {label: "Titel", name: "title", widget: "string", required: false}
+          - {label: "URL", name: "url", widget: "string"}
+          - {label: "CTA", name: "cta", widget: "boolean", required: false}
+          - {label: "In neuem Tab öffnen", name: "blank", widget: "boolean", default: true, required: false}
+      - label: "Headerbild/Headerbilder"
+        name: "coverImages"
+        widget: "list"
+        required: false
+        fields:
+          - {label: "Bild", name: "image", widget: "image", required: true}
+          - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+          - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
+  - name: "pilotinfo-pilotinfo"
+    label: "Piloten-Info Piloten-Info"
+    folder: "content/pilotinfo/pilotinfo"
+    create: false
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Veröffentlichungsdatum", name: "date", widget: "datetime", required: false}
+      - {label: "Entwurf", name: "draft", widget: "boolean", default: true, required: false}
+      - {label: "Gewichtung", name: "weight", widget: "number", required: false}
       - {label: "Bild", name: "image", widget: "image", required: true}
       - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
       - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
