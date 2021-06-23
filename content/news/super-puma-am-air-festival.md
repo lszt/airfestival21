@@ -1,8 +1,7 @@
 ---
 title: super puma am air festival!
 date: '2021-02-24T13:37:41+01:00'
-draft: false
-weight: '2'
+draft: true
 image: /img/uploads/news_superpuma.jpg
 positionx: 50
 positiony: 50
