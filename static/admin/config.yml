@@ -52,9 +52,9 @@ collections:
           - {label: "Bild", name: "image", widget: "image", required: true}
           - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
           - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
-  - name: "program"
-    label: "Program"
-    folder: "content/program/"
+  - name: "programm"
+    label: "Programm"
+    folder: "content/programm/"
     create: false
     slug: "{{slug}}"
     fields:
@@ -83,9 +83,9 @@ collections:
           - {label: "Bild", name: "image", widget: "image", required: true}
           - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
           - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
-  - name: "program-program"
-    label: "Program - Program"
-    folder: "content/program/program/"
+  - name: "programm-programm"
+    label: "Programm - Programm"
+    folder: "content/programm/programm/"
     create: true
     slug: "{{slug}}"
     fields:
