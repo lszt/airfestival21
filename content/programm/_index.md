@@ -1,13 +1,18 @@
 ---
 title: Programm
+image: /img/uploads/slider_flugprogramm_2.jpg
+positionx: 50
+positiony: 50
+description: sefga
 coverImages:
-  - image: /img/uploads/slider_kla_lommis.jpg
-    positionx: 70
+  - image: /img/uploads/slider_flugprogramm_1.jpg
+    positionx: 50
     positiony: 50
-  - image: /img/uploads/slider_robin.jpg
-    positionx: 30
-    positiony: 60
-  - image: /img/cover/flugschule.jpg
-    positionx: 90
+  - image: /img/uploads/slider_flugprogramm_3.jpg
+    positionx: 50
+    positiony: 50
+  - image: /img/uploads/slider_flugprogramm_2.jpg
+    positionx: 50
     positiony: 50
 ---
+
