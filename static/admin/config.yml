@@ -53,7 +53,7 @@ collections:
           - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
           - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "program"
-    label: "Programm"
+    label: "Program"
     folder: "content/program/"
     create: false
     slug: "{{slug}}"
@@ -86,7 +86,7 @@ collections:
   - name: "program-program"
     label: "Program - Program"
     folder: "content/program/program/"
-    create: false
+    create: true
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
@@ -180,7 +180,7 @@ collections:
   - name: "sponsors-sponsors"
     label: "Sponsoren - Sponsoren"
     folder: "content/sponsors/sponsors"
-    create: false
+    create: true
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
@@ -243,7 +243,7 @@ collections:
   - name: "pilotinfo-pilotinfo"
     label: "Piloten-Info Piloten-Info"
     folder: "content/pilotinfo/pilotinfo"
-    create: false
+    create: true
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
