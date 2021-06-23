@@ -17,9 +17,6 @@ description: >-
   Diverse Vorführungen eines Super Puma Hubschraubers der Schweizer Armee,
   Starts und Landungen von Heissluftballonen aber auch diverse Show-Acts von
   Modellflugzeugen runden das vielfältige Programm ab.
-coverImages:
-  - image: /img/uploads/slider_flugprogramm_1.jpg
-  - image: /img/uploads/slider_flugprogramm_3.jpg
-  - image: /img/uploads/slider_flugprogramm_2.jpg
+coverImages: []
 ---
 
