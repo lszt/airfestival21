@@ -6,6 +6,10 @@ weight: '1'
 image: /img/uploads/ausbildung_sphair.jpg
 positionx: 50
 positiony: 50
-description: text sphair
+description: >-
+  Starte bei uns Deine Berufspiloten-Karriere! SPHAIR findet junge Schweizer
+  Nachwuchspiloten. Experten aus der zivilen und militärischen Luftfahrt prüfen
+  die Kandidaten in einem mehrstufigen Verfahren. Ein Infostand ist am
+  AirFestival präsent!
 ---
 
