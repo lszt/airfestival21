@@ -1,6 +1,6 @@
 ---
 title: Rahmenprogramm
-weight: '2'
+weight: '3'
 coverImages:
   - image: /img/uploads/slider_kla_lommis.jpg
     positionx: 70
