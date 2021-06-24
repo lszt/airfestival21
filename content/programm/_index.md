@@ -11,6 +11,8 @@ coverImages:
     positionx: 50
     positiony: 50
 ---
+** Flugprogramm **
+
 Nebst den Highlights wie einem Display der Patrouille Suisse und dem F/A-18
 Hornet Team ist das AIR FESTIVAL fest in der Hand der Kleinaviatik und
 historischer Flugzeuge. Nebst Kriegsverteranen wie einer North American P-51
