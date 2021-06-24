@@ -1,6 +1,6 @@
 ---
 title: Flugprogramm
-weight: '0'
+weight: '1'
 image: /img/uploads/news_hornet.jpg
 positionx: 50
 positiony: 50
