@@ -10,7 +10,8 @@ description: >-
   Am AirFestival können Sie Rundflüge in der An-2 buchen. Hierzu müssen Sie sich
   im Vorfeld auf der Website der An-2 registrieren und Mitglied werden.
 buttons:
-  - cta: true
+  - blank: true
+    cta: true
     title: Rundflug buchen
     url: 'https://starflight.ch/'
 ---
