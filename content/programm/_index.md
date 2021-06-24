@@ -11,7 +11,7 @@ coverImages:
     positionx: 50
     positiony: 50
 ---
-**Flugprogramm**
+## **Flugprogramm**
 
 Nebst den Highlights wie einem Display der Patrouille Suisse und dem F/A-18
 Hornet Team ist das AIR FESTIVAL fest in der Hand der Kleinaviatik und
@@ -20,7 +20,6 @@ Mustang und einer North American T-6 sind auch zivile Oldtimer wie z.B.
 Bücker-Doppeldecker oder zweimotorige DC-3 und Beech 18 am Himmel über Lommis
 zu bewundern. Immer ein Leckerbissen sind die Kunstflugvorführungen hoch über
 den Köpfen der Zuschauer – inkl. Kunstflug von Segelflugzeugen!
-
 
 Diverse Vorführungen eines Super Puma Hubschraubers der Schweizer Armee,
 Starts und Landungen von Heissluftballonen aber auch diverse Show-Acts von
