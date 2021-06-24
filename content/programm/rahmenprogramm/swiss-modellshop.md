@@ -1,5 +1,5 @@
 ---
-title: swiss modellshop
+title: swiss model shop
 date: '2021-06-24T12:27:36+02:00'
 draft: false
 weight: ''
