@@ -2,7 +2,7 @@
 title: Sponsoring
 date: '2021-01-30T17:20:25+01:00'
 draft: false
-weight: '2'
+weight: '3'
 image: /img/uploads/medien_plakat.jpg
 positionx: 50
 positiony: 50
