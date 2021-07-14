@@ -7,7 +7,7 @@ image: /img/uploads/news_hornet.jpg
 positionx: 50
 positiony: 50
 description: >-
-  Achtung laut! Das atemberaubende Display der F/A-18 Hornet findet am Satmstag
+  Achtung laut! Das atemberaubende Display der F/A-18 Hornet findet am Samstag
   und Sonntag statt!
 ---
 
