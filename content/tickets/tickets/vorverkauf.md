@@ -2,7 +2,7 @@
 title: Vorverkauf
 date: '2021-02-23T13:33:19+01:00'
 draft: false
-weight: '5'
+weight: '1'
 image: /img/uploads/programm_p51.jpg
 positionx: 50
 positiony: 50
