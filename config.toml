@@ -26,7 +26,7 @@ googleAnalytics = "UA-25486694-1"
     [[menu.main]]
     identifier = "tickets"
     name       = "Tickets"
-    url        = "https://ti.to/mfgt/airfestival21/de"
+    url        = "/tickets/"
     weight     = 3
 
 #
