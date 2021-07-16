@@ -9,10 +9,8 @@ positiony: 50
 description: |-
   **Ticketpreise Tageskasse**
 
-  Tagesticket Samstag, 14. August 2021\
-  CHF 25.–\
-  Tagesticket Sonntag, 15. August 2021\
-  CHF 25.–\
+  Tagesticket Samstag, 14. August 2021: CHF 25.–\
+  Tagesticket Sonntag, 15. August 2021: CHF 25.–\
   Kinder unter 16 kostenlos
 
   Parkplatz: CHF 5.–
