@@ -24,3 +24,5 @@ den Köpfen der Zuschauer – inkl. Kunstflug von Segelflugzeugen!
 Diverse Vorführungen eines Super Puma Hubschraubers der Schweizer Armee,
 Starts und Landungen von Heissluftballonen aber auch diverse Show-Acts von
 Modellflugzeugen runden das vielfältige Programm ab.
+
+Die Flugvorführungen weichen teilweise vom Betriebsreglement des Flugplatz Lommis ab. Wir bedanken uns bei der Gemeinde Lommis, allen Nachbargemeinden, der Lauchtal AG und dem Bundesamt für Zivilluftfahrt für das entsprechende Einverständnis.
