@@ -8,7 +8,7 @@ coverImages:
     positionx: 50
     positiony: 50
 ---
-### Samstag – Sonntag, 14. – 15. August 2021  Fly-In 13. August 2021 |  Flugplatz Lommis LSZT
+### Samstag – Sonntag, 14. – 15. Air Show | 13. August Fly-In |  Flugplatz Lommis LSZT
 
 \
 **Die Motorfluggruppe Thurgau MFGT feiert 2021 ihr 75-jähriges Bestehen und zelebriert dies mit einem fulminanten AIR FESTIVAL am Himmel und am Boden von Lommis TG.**
