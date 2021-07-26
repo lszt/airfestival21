@@ -16,6 +16,6 @@ buttons:
   - blank: true
     cta: true
     title: Tickets kaufen
-    url: 'https://ti.to/mfgt/airfestival21/de'
+    url: 'https://airfestival21.ch/tickets'
 ---
 
