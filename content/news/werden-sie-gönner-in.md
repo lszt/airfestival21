@@ -10,6 +10,10 @@ description: |-
   **Werden Sie Gönner/-in und unterstützen Sie das AirFestival.**
 
   Jeder Betrag ist willkommen!
-  Einfach E-Mail an <mailto:sponsoring@airfestival21.ch>. Herzlichen Dank!
+  Einfach Gönnerticket kaufen oder E-Mail an <mailto:sponsoring@airfestival21.ch>. Herzlichen Dank!
+buttons:
+  - blank: true
+    cta: true
+    title: Gönner werden
+    url: 'https://ti.to/mfgt/airfestival21/with/goennerticket'
 ---
-
