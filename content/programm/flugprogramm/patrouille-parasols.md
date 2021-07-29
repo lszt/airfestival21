@@ -1,7 +1,7 @@
 ---
 title: Patrouille Parasols
 date: '2021-07-29T12:15:40+04:00'
-draft: true
+draft: false
 image: /img/uploads/programm_parasols.jpg
 positionx: 50
 positiony: 50

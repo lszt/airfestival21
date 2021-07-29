@@ -1,7 +1,7 @@
 ---
 title: Bücker
 date: '2021-07-29T12:14:54+04:00'
-draft: true
+draft: false
 image: /img/uploads/programm_buecker.jpg
 positionx: 50
 positiony: 50
