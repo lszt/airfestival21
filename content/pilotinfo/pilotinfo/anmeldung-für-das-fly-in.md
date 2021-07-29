@@ -16,8 +16,7 @@ buttons:
     cta: true
     title: PPR Anmeldung
     url: >-
-      Da während dem Airfestival die Procedures leicht abgeändert sind, ist das
-      Durchlesen des Fly-In Guides und eine PPR Anmeldung zwingend erforderlich.
+      https://docs.google.com/forms/d/1Lp1tZSta5wnKIY0HiuzcYY0_3uqgnRhLtLd_L8pxu5M/edit?usp=sharing
   - blank: true
     cta: false
     title: Fly-In Guide
