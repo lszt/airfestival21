@@ -2,7 +2,7 @@
 title: Fieseler Storch
 date: '2021-07-29T12:33:43+04:00'
 draft: false
-image: /img/uploads/medien_logo.jpg
+image: /img/uploads/programm_fieslerstorch.jpg
 positionx: 50
 positiony: 50
 description: >-
