@@ -1,14 +1,15 @@
 ---
 title: Segelkunstflug
-date: '2021-06-23T16:39:08+02:00'
+date: '2021-07-29T12:35:05+04:00'
 draft: false
-weight: '14'
-image: /img/uploads/programm_blanix.jpg
+image: /img/uploads/medien_logo.jpg
 positionx: 50
 positiony: 50
 description: >-
-  Die Vorführung des Blanix-Teams enthält neben dem Spiegelflug auch klassische
-  Kunstflugfiguren, die entweder synchron oder praktisch im Display eingesetzt
-  präsentiert werden.
+  Ganz ohne Motor werden neben einer Kunstflugvorführung anschliessend auch
+  Rundflüge
+
+
+  möglich sein.
 ---
 
