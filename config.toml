@@ -42,11 +42,11 @@ googleAnalytics = "UA-25486694-1"
 #    url        = "/sponsors/"
 #    weight     = 3
 #
-#    [[menu.main]]
-#    identifier = "pilot-info"
-#    name       = "Piloten-Info"
-#    url        = "/pilot-info/"
-#    weight     = 4
+   [[menu.main]]
+   identifier = "pilot-info"
+   name       = "Piloten-Info"
+   url        = "/pilot-info/"
+   weight     = 4
 #
 #    [[menu.main]]
 #    identifier = "anfahrt"
