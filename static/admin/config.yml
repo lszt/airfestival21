@@ -372,7 +372,7 @@ collections:
   - name: "mfgt-mfgt"
     label: "MFGT - MFGT"
     folder: "content/mfgt/mfgt/"
-    create: false
+    create: true
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
@@ -420,7 +420,7 @@ collections:
   - name: "pilotinfo-pilotinfo"
     label: "Piloten-Info-Piloten-Info"
     folder: "content/pilotinfo/pilotinfo/"
-    create: false
+    create: true
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string"}
