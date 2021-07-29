@@ -15,10 +15,15 @@ Highlights am Morgen sind mit Sicherheit das Display des Super Pumas sowie die V
 Für alle Besucher, welche gerne selbst mitfliegen würden, gibt es diverse Rundflüge. Diese dauern alle ca. 30 Minuten und finden einerseits mit Clubflugzeugen der MFGT (Robin, Pipistrel, Aquila) oder aber auch mit einem Segelflugzeug statt. Andererseits gibt es auch die Möglichkeit, in einem Heissluftballon Platz zu nehmen, wobei in diesem Fall dann die Fahrt 1 bis 1.5 Stunden dauert.
 
 Die Rundflüge starten zu folgenden Zeiten:
+
 10:15 Uhr
+
 12:25 Uhr
+
 14:35 Uhr
+
 15:45 Uhr
+
 Ab ca. 17:30 Uhr Fahrten im Heissluftballon
 
 Tickets oder aber auch Gutscheine für Rundflüge / Fahrten im Ballon können direkt auf dem
