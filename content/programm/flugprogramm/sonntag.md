@@ -2,7 +2,7 @@
 title: Flugprogramm Sonntag
 date: '2021-01-30T17:20:25+01:00'
 draft: false
-weight: '1'
+weight: '2'
 image: /img/uploads/medien_plakat.jpg
 description: |-
   Programm Sonntag
