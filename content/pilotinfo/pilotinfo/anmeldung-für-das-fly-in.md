@@ -17,11 +17,6 @@ buttons:
     title: PPR Anmeldung
     url: >-
       https://docs.google.com/forms/d/1Lp1tZSta5wnKIY0HiuzcYY0_3uqgnRhLtLd_L8pxu5M/edit?usp=sharing
-  - blank: true
-    cta: false
-    title: Fly-In Guide
-    url: >-
-      https://drive.google.com/file/d/1UNN_PYk0RUbk0xEti5LmmjwoiLURBlnt/view?usp=sharing
 coverImages: []
 ---
 
