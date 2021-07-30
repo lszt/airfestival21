@@ -16,7 +16,7 @@ buttons:
     cta: true
     title: PPR Anmeldung
     url: >-
-      https://docs.google.com/forms/d/1Lp1tZSta5wnKIY0HiuzcYY0_3uqgnRhLtLd_L8pxu5M/edit?usp=sharing
+      https://docs.google.com/forms/d/1Lp1tZSta5wnKIY0HiuzcYY0_3uqgnRhLtLd_L8pxu5M/viewform
 coverImages: []
 ---
 
