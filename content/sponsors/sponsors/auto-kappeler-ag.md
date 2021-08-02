@@ -6,5 +6,9 @@ image: /img/uploads/sponsor_autokappeler.jpg
 positionx: 50
 positiony: 50
 description: CO-Sponsor
+buttons:
+  - cta: true
+    title: Webseite
+    url: 'https://www.auto-kappeler.ch/'
 ---
 
