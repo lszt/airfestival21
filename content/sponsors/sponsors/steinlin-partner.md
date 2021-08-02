@@ -1,5 +1,5 @@
 ---
-title: Steinlin & Partner
+title: Steinlin & Partner AG
 date: '2021-08-02T12:59:37+04:00'
 draft: false
 image: /img/uploads/sponsor_steinlin.jpg
