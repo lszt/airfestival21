@@ -1,6 +1,7 @@
 ---
 title: Kindlimann AG
 date: '2021-08-02T19:14:49+04:00'
+weight: 10
 draft: false
 image: /img/uploads/sponsor_kindlimann.jpg
 positionx: 50

@@ -1,6 +1,7 @@
 ---
 title: Swiss Pilot School Association
 date: '2021-08-02T19:25:42+04:00'
+weight: 21
 draft: false
 image: /img/uploads/sponsor_swisspsa.jpg
 positionx: 50

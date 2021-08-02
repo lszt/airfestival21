@@ -2,6 +2,7 @@
 title: AAA - Antique Airplane Association
 date: '2021-08-02T19:11:34+04:00'
 draft: false
+weight: 1
 image: /img/uploads/sponsor_aaa.jpg
 positionx: 50
 positiony: 50
