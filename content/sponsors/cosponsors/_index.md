@@ -1,5 +1,6 @@
 ---
-title: MFGT
+title: Co-Sponsoren
+weight: 2
 coverImages:
   - image: /img/uploads/slider_kla_lommis.jpg
     positionx: 70
