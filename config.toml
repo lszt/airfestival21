@@ -36,12 +36,12 @@ googleAnalytics = "UA-25486694-1"
 #    url        = "/gastronomie/"
 #    weight     = 2
 #
-#    [[menu.main]]
-#    identifier = "sponsors"
-#    name       = "Sponsoren"
-#    url        = "/sponsors/"
-#    weight     = 3
-#
+   [[menu.main]]
+   identifier = "sponsors"
+   name       = "Sponsoren"
+   url        = "/sponsors/"
+   weight     = 3
+
    [[menu.main]]
    identifier = "pilot-info"
    name       = "Piloten-Info"
