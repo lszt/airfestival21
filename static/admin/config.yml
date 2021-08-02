@@ -228,8 +228,8 @@ collections:
           - {label: "Fokuspunkt Horizontal von links in %", name: "positionx", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
           - {label: "Fokuspunkt Vertikal von oben in %", name: "positiony", widget: "number", default: 50, valueType: "int", min: 0, max: 100, required: true}
   - name: "sponsors-sponsors"
-    label: "Sponsoren - Sponsoren"
-    folder: "content/sponsors/sponsors"
+    label: "Sponsoren - Logo"
+    folder: "content/sponsors/logo"
     create: true
     slug: "{{slug}}"
     fields:
