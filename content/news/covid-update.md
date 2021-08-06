@@ -21,4 +21,4 @@ Es gelten die Massnahmen und Verordnungen des Bundes sowie des Kantons Thurgaus.
 Der Bund übernimmt alle Kosten für Antigen-Schnelltests, die Sie in einem Testzentrum, bei Ihrer Ärztin oder Ihrem Arzt, in Spitälern oder Apotheken durchführen lassen.
 Somit können Sie sich mit diesen Tests auch gratis testen lassen, wenn Sie keine Symptome des Coronavirus haben. Das Covid-Zertifikat, welches Sie dann erhalten, ist 48 Std. gültig.
 
-Kinder und Jugendliche bis 16J benötigen für den Eintritt kein Zertifikat.
+Kinder und Jugendliche unter 16J benötigen für den Eintritt kein Zertifikat.
