@@ -4,11 +4,12 @@ date: '2021-01-30T17:20:25+01:00'
 draft: false
 weight: '1'
 image: /img/uploads/medien_plakat.jpg
-description: |-
-  Programm Samstag
+positionx: 50
+positiony: 50
+description: Programm Samstag
 buttons: []
 ---
-### Am Samstag wie auch am Sonntag findet der Einlass ab 08:00 Uhr statt. 
+### Am Samstag wie auch am Sonntag findet der Einlass ab 09:00 Uhr statt. 
 
 Anschliessend ist bis 10:00 Uhr ein Fly-In Block geplant, welcher für auswärtige Piloten vorgesehen ist, um mit dem Flugzeug anzureisen. Sobald dieser Block fertig ist, starten die Flugvorführungen. Diese ziehen sich abgesehen von einem kurzen Fly-Out Block bis in die Nacht hinein. Hier ist zu erwähnen, dass ab 19:00 Uhr nur noch Vorführungen mit Modellflugzeugen und Drohnen zu sehen sind.
 
