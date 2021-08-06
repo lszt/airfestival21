@@ -13,7 +13,7 @@ Bitte beachten Sie, dass der Zutritt zum Eventgelände / Flugplatz nur mit gült
 
 Dies Anforderung gilt zwingend für alle Grossveranstaltungen ab 1000 Personen.
 
-Jedoch gibt es keine Maskenpflicht.
+Jedoch gilt keine Maskenpflicht.
 
 Es gelten die Massnahmen und Verordnungen des Bundes sowie des Kantons Thurgaus.
 (Abschliessend gelten die Vorgaben per 14. August 2021)
