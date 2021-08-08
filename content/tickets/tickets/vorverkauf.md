@@ -10,8 +10,8 @@ description: |-
   **Ticketpreise Vorverkauf**
 
   Ticket Wochenende: CHF 30.–\
-  Tagesticket Samstag, 14. August 2021: CHF 20.–\
-  Tagesticket Sonntag, 15. August 2021: CHF 20.–\
+  Tagesticket Samstag, 14. August 2021: CHF 25.–\
+  Tagesticket Sonntag, 15. August 2021: CHF 25.–\
   Kinder unter 16 kostenlos
 buttons:
   - blank: true
