@@ -6,7 +6,10 @@ weight: '3'
 image: /img/uploads/covid_19.jpg
 positionx: 50
 positiony: 50
-description: Hier finden sie die aktuellen Infos zu den COVID-Einschränkungen.
+description: |-
+  Hier finden sie die aktuellen Infos zu den COVID-Einschränkungen.
+
+  Letztes Update vom 11.08.2021
 ---
 
 Bitte beachten Sie, dass der Zutritt zum Eventgelände / Flugplatz nur mit gültigem COVID-Zertifikat erlaubt ist.
@@ -22,3 +25,8 @@ Der Bund übernimmt alle Kosten für Antigen-Schnelltests, die Sie in einem Test
 Somit können Sie sich mit diesen Tests auch gratis testen lassen, wenn Sie keine Symptome des Coronavirus haben. Das Covid-Zertifikat, welches Sie dann erhalten, ist 48 Std. gültig.
 
 Kinder und Jugendliche unter 16J benötigen für den Eintritt kein Zertifikat.
+
+
+Für Besucher und Besucherinnen, welche sich vor Eintritt ins Airfestival nicht testen lassen konnten, steht auf dem Gelände eine beschränkte Kapazität für Covid Tests zur Verfügung.
+
+Gemäss Weisung BAG werden Tests im Rahmen von Veranstaltungen nicht im vollen Umfang durch den Bund übernommen, weshalb für das offizielle Zertifikat ein Unkostenbeitrag von Fr. 20.- erhoben wird.
