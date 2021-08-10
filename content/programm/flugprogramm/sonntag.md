@@ -12,7 +12,7 @@ buttons: []
 ### Am Samstag wie auch am Sonntag findet der Einlass ab 09:00 Uhr statt. 
 
 Das Programm am Sonntagmorgen ist genau gleich aufgebaut wie dasjenige am Samstag.
-Das heisst, dass für alle Besucher ebenfalls wieder ab 08:00 Uhr geöffnet ist und die Flugvorführungen dann ab 10:00 Uhr beginnen. Allerdings dauern diese nur noch bis 17:00 Uhr.
+Das heisst, dass für alle Besucher ebenfalls wieder ab 09:00 Uhr geöffnet ist und die Flugvorführungen dann ab 10:00 Uhr beginnen. Allerdings dauern diese nur noch bis 17:00 Uhr.
 
 Highlights am Morgen sind neben der Vorführung einer AT-16 ein Formationsflug einer Siai Marchetti mit deren eins zu eins Nachbau als Modellflugzeug. Anschliessend krönen Displays des Red Bull Blanix Teams, der FA-18 und der P-51 Mustang einen würdigen Abschluss des Airfestivals.
 
