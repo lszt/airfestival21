@@ -12,4 +12,4 @@ coverImages:
     positiony: 50
 ---
 **Willkommen am AirFestival 2021 in Lommis.**\
-Sie können Ihr Ticket schon jetzt bequem im Vorverkauf beziehen und ersparen sich das Anstehen an der Kasse vor Ort.
+Sie können Ihr Ticket schon jetzt bequem im Vorverkauf beziehen, sichern sie sich Ihr Ticket und ersparen sich das Anstehen an der Kasse vor Ort.
