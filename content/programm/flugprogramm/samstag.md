@@ -10,7 +10,7 @@ description: Flugprogramm Samstag & Sonntag
 buttons:
   - blank: true
     cta: true
-    title: download programm
+    title: download flugprogramm
     url: 'https://drive.google.com/file/d/1s5j5hvXFp9iEgHItbY7AN2WzBPeFVIPA/view'
 ---
 
