@@ -8,7 +8,7 @@ positionx: 50
 positiony: 50
 description: |-
   Reisen Sie mit den ÖV oder dem eigenen Auto an?
-  Beachten Sie die ZUfahrt zum Flughafen vor Ort.
+  Beachten Sie die Zufahrt zum Flughafen vor Ort.
 buttons:
   - blank: true
     cta: true
