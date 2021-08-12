@@ -1,13 +1,21 @@
 ---
-title: kontakt
+title: anfahrt & kontakt
 date: 2019-04-14T15:03:53.000Z
 draft: false
-image: /img/uploads/bild_kontakt.jpg
+image: /img/uploads/anfahrt.jpg
 positionx: 50
 positiony: 50
 description: |-
-  Sind Sie an einem Sponsoring interessiert? \
-  Haben Sie Inputs oder Fragen zum Programm?
+  Reisen Sie mit den ÖV oder mit dem eigenen Auto an?\
+  Haben Sie Fragen zum Programm?
+
+  Hier finden Sie alle Infos.
+buttons:
+  - blank: true
+    cta: true
+    title: download anfahrtsplan
+    url: >-
+      https://drive.google.com/file/d/1AI2N9vAVp2Ib-yYHER2EfjUKg_AP3vPd/view?usp=sharing
 ---
 OK AIR FESTIVAL \
 Andreas Wieland\
