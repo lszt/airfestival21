@@ -14,6 +14,6 @@ buttons:
     cta: true
     title: download anfahrtsplan
     url: >-
-      https://drive.google.com/file/d/1AI2N9vAVp2Ib-yYHER2EfjUKg_AP3vPd/view?usp=sharing
+      https://drive.google.com/file/d/1iQcMubBYPWpgLHjV6zjlDWL0Z0OknvC-/view?usp=sharing
 ---
 
