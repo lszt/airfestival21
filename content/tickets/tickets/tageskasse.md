@@ -11,7 +11,7 @@ description: |-
 
   Tagesticket Samstag, 14. August 2021: CHF 25.–\
   Tagesticket Sonntag, 15. August 2021: CHF 25.–\
-  Sonntag, 15. August 2021: Ab 1700 Einlass frei\
+  Sonntag, 15. August 2021: Ab 1600 Einlass frei\
   Kinder unter 16 kostenlos
 
   Parkplatz: CHF 5.–
