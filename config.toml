@@ -23,11 +23,11 @@ googleAnalytics = "UA-25486694-1"
     url        = "/programm/"
     weight     = 2
 
-    [[menu.main]]
-    identifier = "tickets"
-    name       = "Tickets"
-    url        = "/tickets/"
-    weight     = 3
+#    [[menu.main]]
+#    identifier = "tickets"
+#    name       = "Tickets"
+#    url        = "/tickets/"
+#    weight     = 3
 
 #
 #    [[menu.main]]
